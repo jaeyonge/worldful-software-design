@@ -1,0 +1,10 @@
+{
+  "name": "worldful-reader",
+  "private": true,
+  "scripts": {
+    "build": "sh scripts/build.sh"
+  },
+  "dependencies": {
+    "mermaid": "^11.0.0"
+  }
+}

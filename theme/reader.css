@@ -1,0 +1,17 @@
+:root { --content-max-width: 860px; }
+.light { --bg: #faf9f5; --fg: #292d2a; --sidebar-bg: #f0efe9; --sidebar-fg: #50554e; --sidebar-active: #28644e; --links: #28644e; --table-border-color: #dcded4; --table-header-bg: #eeeee5; --table-alternate-bg: #f5f5ef; }
+.content main { padding-top: 38px; padding-bottom: 80px; }
+.content p, .content li { line-height: 1.8; }
+.content h1 { font-family: Georgia, serif; font-size: 2.5em; line-height: 1.15; font-weight: 500; letter-spacing: -.025em; margin-bottom: 1em; }
+.content h2 { font-family: Georgia, serif; font-weight: 500; font-size: 1.75em; margin-top: 2em; }
+.content h3 { margin-top: 1.8em; }
+.content table { display: block; width: 100%; overflow-x: auto; margin: 1.7em 0; font-size: .88em; }
+.content td, .content th { padding: 12px 15px; line-height: 1.55; min-width: 110px; }
+.content blockquote { border-left: 3px solid #658b72; padding: 5px 20px; }
+.sidebar .sidebar-scrollbox { padding-top: 28px; }
+.sidebar .chapter li { padding: 7px 0; line-height: 1.5; }
+.menu-title { font-size: 15px; letter-spacing: .01em; }
+.book-kicker { color: var(--links); font-size: .72em; font-weight: 700; letter-spacing: .16em; margin: -12px 0 30px; }
+.book-meta { padding: 18px 0; border-top: 1px solid var(--table-border-color); border-bottom: 1px solid var(--table-border-color); margin: 28px 0; font-size: .85em; }
+.mermaid { overflow: auto; padding: 20px 0; }
+@media(max-width: 600px) { .content h1 { font-size: 2em; } .content main { padding-top: 22px; } }

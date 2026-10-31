@@ -1,0 +1,188 @@
+{
+  "retrieved": "2026-10-31",
+  "purpose": "Product criticism and design analysis",
+  "official_screenshots": [
+    {
+      "file": "grug-01.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/1a/6b/901a6b1c-73ed-01d5-9487-9e10f7403329/5E10394A-3ED5-45C4-9875-4C220EE5B109-grug_appstore_01.png/1000x2000bb.jpg",
+      "copyright": "Ocho",
+      "catalog_version": "1.5.3"
+    },
+    {
+      "file": "grug-02.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/20/3a/a2203ae6-6071-15fd-07ed-9c51934731b8/16AD259B-FAE3-4646-85FE-560836F72679-grug_appstore_02.png/1000x2000bb.jpg",
+      "copyright": "Ocho",
+      "catalog_version": "1.5.3"
+    },
+    {
+      "file": "grug-03.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/c6/ac/6cc6ac52-d143-2f38-1fa6-ed91d0ed4b95/28319B1B-2829-451B-866C-1FC52E4886B0-grug_appstore_04.png/1000x2000bb.jpg",
+      "copyright": "Ocho",
+      "catalog_version": "1.5.3"
+    },
+    {
+      "file": "grug-04.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/e0/aa/5be0aa2b-7573-c11b-63e8-0cf3de4b966c/D872C0C0-3AC0-4337-87FD-D02B098B6C77-grug_appstore_05.png/1000x2000bb.jpg",
+      "copyright": "Ocho",
+      "catalog_version": "1.5.3"
+    },
+    {
+      "file": "grug-05.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/bc/3e/1bbc3e1a-53b5-ae1f-8dcf-a96f7901a21e/12F49266-A032-4A67-874E-261BECDE56D8-grug_appstore_06.png/1000x2000bb.jpg",
+      "copyright": "Ocho",
+      "catalog_version": "1.5.3"
+    },
+    {
+      "file": "grug-06.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/5b/7d/c45b7db7-db02-cb6d-d7aa-c8ea402a36a6/01BD1FB7-BF0A-4263-AF9A-94C027423C26-grug_appstore_07.png/1000x2000bb.jpg",
+      "copyright": "Ocho",
+      "catalog_version": "1.5.3"
+    },
+    {
+      "file": "grug-07.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/28/66/bf286614-70d6-fe29-9485-220547dbe3d6/B582B814-D0CE-4709-9342-D7CEF0A6A67B-grug_appstore_08.png/1000x2000bb.jpg",
+      "copyright": "Ocho",
+      "catalog_version": "1.5.3"
+    },
+    {
+      "file": "poolsuite-01.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/96/b4/3196b428-c2f2-d00d-84b7-3b50b5f19e70/Variant10.png/1000x2000bb.jpg",
+      "copyright": "Poolsuite",
+      "catalog_version": "2.6"
+    },
+    {
+      "file": "poolsuite-02.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/dc/47/7edc4757-69d6-2d6e-decd-eb18d0c385ba/Variant9.png/1000x2000bb.jpg",
+      "copyright": "Poolsuite",
+      "catalog_version": "2.6"
+    },
+    {
+      "file": "poolsuite-03.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/59/ef/6859ef6e-fcd8-34e2-8e94-78d61b17c5d9/Variant7.png/1000x2000bb.jpg",
+      "copyright": "Poolsuite",
+      "catalog_version": "2.6"
+    },
+    {
+      "file": "poolsuite-04.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/71/69/487169c7-82b9-1164-2af1-531e8f8908bf/Variant6.png/1000x2000bb.jpg",
+      "copyright": "Poolsuite",
+      "catalog_version": "2.6"
+    },
+    {
+      "file": "poolsuite-05.jpg",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/4b/5c/3e4b5cf8-9ea3-fcb0-8d1c-e338cefc72d7/Variant8.png/1000x2000bb.jpg",
+      "copyright": "Poolsuite",
+      "catalog_version": "2.6"
+    }
+  ],
+  "browser_captures": [
+    {
+      "file": "poolsuite-live-desktop.png",
+      "source": "https://poolsuite.net/",
+      "captured": "2026-10-31",
+      "copyright": "Poolsuite"
+    },
+    {
+      "file": "poolsuite-live-mixtapes.png",
+      "source": "https://poolsuite.net/",
+      "captured": "2026-10-31",
+      "copyright": "Poolsuite"
+    },
+    {
+      "file": "poolsuite-live-compact.png",
+      "source": "https://poolsuite.net/",
+      "captured": "2026-10-31",
+      "copyright": "Poolsuite"
+    },
+    {
+      "file": "grug-live-site.png",
+      "source": "https://www.grug.so/",
+      "captured": "2026-10-31",
+      "copyright": "Ocho"
+    }
+  ],
+  "native_inspection": {
+    "date": "2026-10-31",
+    "method": "User iPhone via iPhone Mirroring",
+    "notes": "Initial grug taps user-operated; subsequent app navigation, reversible drawing test, appearance, and Poolsuite tests directly operated. Existing sessions, not fresh-install onboarding."
+  },
+  "native_captures": [
+    {
+      "file": "grug-native-lesson-detail.png",
+      "product": "grug",
+      "copyright": "Ocho",
+      "date": "2026-10-31",
+      "note": "Direct running-app capture."
+    },
+    {
+      "file": "poolsuite-native-newsroom.png",
+      "product": "Poolsuite",
+      "copyright": "Poolsuite",
+      "date": "2026-10-31",
+      "note": "System activity region omitted for Poolsuite captures."
+    },
+    {
+      "file": "poolsuite-native-themes.png",
+      "product": "Poolsuite",
+      "copyright": "Poolsuite",
+      "date": "2026-10-31",
+      "note": "System activity region omitted for Poolsuite captures."
+    },
+    {
+      "file": "grug-native-initial.png",
+      "product": "grug",
+      "copyright": "Ocho",
+      "date": "2026-10-31",
+      "note": "Direct running-app capture."
+    },
+    {
+      "file": "poolsuite-native-mixtape.png",
+      "product": "Poolsuite",
+      "copyright": "Poolsuite",
+      "date": "2026-10-31",
+      "note": "System activity region omitted for Poolsuite captures."
+    },
+    {
+      "file": "poolsuite-native-article.png",
+      "product": "Poolsuite",
+      "copyright": "Poolsuite",
+      "date": "2026-10-31",
+      "note": "System activity region omitted for Poolsuite captures."
+    },
+    {
+      "file": "grug-native-drawing.png",
+      "product": "grug",
+      "copyright": "Ocho",
+      "date": "2026-10-31",
+      "note": "Direct running-app capture."
+    },
+    {
+      "file": "grug-native-light.png",
+      "product": "grug",
+      "copyright": "Ocho",
+      "date": "2026-10-31",
+      "note": "Direct running-app capture."
+    },
+    {
+      "file": "poolsuite-native-playing.png",
+      "product": "Poolsuite",
+      "copyright": "Poolsuite",
+      "date": "2026-10-31",
+      "note": "System activity region omitted for Poolsuite captures."
+    },
+    {
+      "file": "grug-native-settings.png",
+      "product": "grug",
+      "copyright": "Ocho",
+      "date": "2026-10-31",
+      "note": "Direct running-app capture."
+    },
+    {
+      "file": "poolsuite-native-theme.png",
+      "product": "Poolsuite",
+      "copyright": "Poolsuite",
+      "date": "2026-10-31",
+      "note": "System activity region omitted for Poolsuite captures."
+    }
+  ]
+}

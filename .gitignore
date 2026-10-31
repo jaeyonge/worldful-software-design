@@ -1,0 +1,4 @@
+node_modules/
+dist/
+src/*.md
+.DS_Store

@@ -1,0 +1,16 @@
+[book]
+title = "Worldful Software Design"
+authors = ["Worldful Software Design"]
+language = "en"
+src = "src"
+[build]
+build-dir = "dist"
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+additional-css = ["theme/reader.css"]
+additional-js = ["theme/diagram.js"]
+site-url = "/worldful-software-design/"
+[output.html.search]
+enable = true
+limit-results = 30
